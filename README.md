@@ -24,3 +24,13 @@ instance by default; set `VULNERABILITY_LOOKUP_URL` to use your own.
 The triage report follows the fields that ENISA's
 [secure-package-consumption](https://github.com/enisaeu/agentic-skills) skill asks for
 a vulnerability alert (severity, EPSS, KEV, reachability, VEX status, remediation).
+
+## License
+
+These skills are free software released under the "GNU Affero General Public License
+v3.0", or (at your option) any later version. See [LICENSE.md](LICENSE.md).
+
+```
+Copyright (c) 2026 Computer Incident Response Center Luxembourg (CIRCL)
+Copyright (c) 2026 Cédric Bonhomme - https://github.com/cedricbonhomme
+```
